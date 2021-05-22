@@ -7,10 +7,10 @@ Sync you Reddit saved posts with Notion
 
 ```zsh
 # Clone this repository locally
-git clone https://github.com/j-waters/reddit-notion-sync.git
+git clone https://github.com/j-waters/notion-redit-sync.git
 
 # Switch into this project
-cd reddit-notion-sync
+cd notion-redit-sync
 
 # Install the dependencies
 yarn install
